@@ -1,0 +1,352 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "company": "Entreprise",
+    "about": "À propos",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "cta": "Demander un devis",
+  "topbar": "Planification, réalisation et accompagnement pour les entreprises en croissance.",
+  "whatsapp": {
+    "message": "Bonjour, je souhaite en savoir plus sur vos services.",
+    "online": "En ligne",
+    "help": "Besoin d'aide ?",
+    "ask": "Demander sur WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Conseil · Projets · Support",
+    "title": "Nous aidons votre entreprise",
+    "accent": "à grandir sereinement",
+    "text": "Une petite équipe à la grande expérience. Nous planifions, réalisons et accompagnons les projets qui font avancer votre entreprise, dans les délais et le budget.",
+    "primary": "Devis gratuit",
+    "rating": "Des centaines d'avis 5 étoiles sur Google",
+    "panel": "Notre méthode",
+    "status": "Dans les temps"
+  },
+  "highlights": [
+    "Premier échange gratuit",
+    "Prix fixes et transparents",
+    "Accompagnement après le lancement"
+  ],
+  "metrics": [
+    {
+      "value": "12+",
+      "label": "Années d'expérience"
+    },
+    {
+      "value": "850+",
+      "label": "Projets réalisés"
+    },
+    {
+      "value": "98%",
+      "label": "Clients satisfaits"
+    }
+  ],
+  "services": {
+    "badge": "Ce que nous faisons",
+    "title": "Des services qui",
+    "accent": "vous font avancer",
+    "intro": "Tout ce dont vous avez besoin, de la première idée au quotidien.",
+    "more": "En savoir plus",
+    "all": "Tous les services",
+    "help": "Vous ne savez pas par où commencer ? Trouvons ensemble la bonne solution.",
+    "details": "détails",
+    "count": "services"
+  },
+  "pillars": {
+    "badge": "Deux façons de vous aider",
+    "title": "Des services experts et",
+    "accent": "des guides pratiques",
+    "text": "Choisissez ce dont vous avez besoin aujourd'hui : l'aide concrète de notre équipe ou des guides gratuits à utiliser en autonomie.",
+    "view": "Voir",
+    "items": [
+      {
+        "title": "Nos services",
+        "subtitle": "Réalisés avec vous",
+        "tag": "Équipes & entreprises",
+        "text": "De la stratégie à la réalisation, notre équipe travaille aux côtés de la vôtre jusqu'à ce que le travail soit fait.",
+        "list": "Services populaires",
+        "bullets": [
+          "Premier appel gratuit",
+          "Prix fixes",
+          "Un seul interlocuteur"
+        ],
+        "action": "Tous les services"
+      },
+      {
+        "title": "Guides & conseils",
+        "subtitle": "Apprenez à votre rythme",
+        "tag": "Ressources gratuites",
+        "text": "Des articles courts et pratiques qui répondent aux questions que l'on nous pose le plus.",
+        "list": "Derniers articles",
+        "bullets": [
+          "Conseils pratiques",
+          "Exemples concrets",
+          "Mis à jour régulièrement"
+        ],
+        "action": "Lire le blog"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Pourquoi nous choisir",
+    "title": "Pourquoi les entreprises travaillent avec nous",
+    "text": "Une communication claire, des prix honnêtes et une équipe attentive à vos résultats.",
+    "features": [
+      {
+        "title": "Équipe expérimentée",
+        "text": "Des années de pratique dans de nombreux secteurs."
+      },
+      {
+        "title": "Processus clair",
+        "text": "Vous savez toujours ce qui vient ensuite et ce que cela coûte."
+      },
+      {
+        "title": "Réponse rapide",
+        "text": "La plupart des questions reçoivent une réponse le jour même."
+      },
+      {
+        "title": "Suivi à long terme",
+        "text": "Nous restons à vos côtés bien après le lancement."
+      }
+    ],
+    "stats": [
+      {
+        "value": 12,
+        "suffix": "+",
+        "label": "Années",
+        "text": "D'expérience sur le terrain."
+      },
+      {
+        "value": 850,
+        "suffix": "+",
+        "label": "Projets",
+        "text": "Réalisés pour des clients de toutes tailles."
+      },
+      {
+        "value": 98,
+        "suffix": "%",
+        "label": "Satisfaction",
+        "text": "De nos clients nous recommandent."
+      },
+      {
+        "value": 40,
+        "suffix": "+",
+        "label": "Partenaires",
+        "text": "Entreprises avec qui nous travaillons chaque année."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Comment ça marche",
+    "title": "Du premier appel au résultat final",
+    "text": "Un processus simple et éprouvé qui garde chaque projet sur la bonne voie.",
+    "kicker": "Consultation gratuite",
+    "center": "Parlons de votre projet",
+    "action": "Écrivez-nous",
+    "steps": [
+      {
+        "title": "Découverte",
+        "text": "Nous écoutons, posons des questions et comprenons vos objectifs."
+      },
+      {
+        "title": "Plan",
+        "text": "Vous recevez un plan clair : périmètre, calendrier et prix."
+      },
+      {
+        "title": "Réalisation",
+        "text": "Notre équipe fait le travail et vous tient informé."
+      },
+      {
+        "title": "Suivi",
+        "text": "Nous mesurons les résultats et continuons à progresser ensemble."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Témoignages",
+    "title": "De vrais retours.",
+    "accent": "De vrais résultats.",
+    "text": "Ce que nos clients disent de notre collaboration.",
+    "see": "Voir les avis Google",
+    "source": "Avis Google",
+    "verified": "Vérifié",
+    "prev": "Avis précédent",
+    "next": "Avis suivant",
+    "items": [
+      {
+        "name": "Sophie Martin",
+        "role": "Responsable des opérations",
+        "project": "Conseil",
+        "quote": "Ils ont compris notre problème en une réunion et nous ont donné un plan que nous pouvions vraiment suivre."
+      },
+      {
+        "name": "Julien Dubois",
+        "role": "Fondateur",
+        "project": "Gestion de projet",
+        "quote": "Dans les délais, dans le budget et toujours joignables. Exactement ce qu'il nous fallait."
+      },
+      {
+        "name": "Camille Laurent",
+        "role": "Responsable administrative",
+        "project": "Support",
+        "quote": "Aimables, rapides et fiables. Notre équipe se sent entre de bonnes mains."
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Devis rapide",
+    "title": "Parlez-nous de votre projet",
+    "accent": "et recevez un devis",
+    "text": "Partagez quelques détails et nous vous répondrons avec un plan et un prix clairs.",
+    "steps": [
+      {
+        "title": "Réponse sous un jour",
+        "text": "Nous étudions votre demande et répondons le jour ouvré même."
+      },
+      {
+        "title": "Prix fixes et clairs",
+        "text": "Aucun coût caché : vous voyez le prix complet avant de commencer."
+      },
+      {
+        "title": "Sans engagement",
+        "text": "La première consultation est toujours gratuite."
+      }
+    ],
+    "hotline": "Ligne directe"
+  },
+  "form": {
+    "eyebrow": "Devis gratuit",
+    "title": "Demander un devis",
+    "text": "Dites-nous ce dont vous avez besoin et nous revenons vers vous rapidement.",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "phone": "Téléphone",
+    "company": "Entreprise",
+    "companyPlaceholder": "Nom de l'entreprise",
+    "service": "Service",
+    "choose": "Choisir un service",
+    "details": "Détails du projet",
+    "detailsPlaceholder": "Décrivez brièvement votre projet...",
+    "consent": "J'accepte que mes données soient utilisées pour préparer un devis.",
+    "send": "Envoyer via WhatsApp",
+    "safe": "Vos données sont protégées",
+    "reply": "Réponse moyenne : le jour même",
+    "sent": "Ouverture de WhatsApp avec votre demande...",
+    "heading": "Nouvelle demande de devis"
+  },
+  "blog": {
+    "badge": "Conseils",
+    "title": "Blog",
+    "intro": "Actualités, conseils et histoires de notre équipe.",
+    "readMore": "Lire la suite",
+    "all": "Tous les articles",
+    "related": "Articles similaires",
+    "summary": "Résumé",
+    "consultTitle": "Une question sur ce sujet ?",
+    "consultText": "Envoyez-nous un message, notre équipe se fera un plaisir de vous aider.",
+    "consultAction": "Nous demander"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Questions fréquentes",
+    "text": "Des réponses rapides aux questions les plus courantes.",
+    "items": [
+      {
+        "question": "Comment commencer ?",
+        "answer": "Envoyez-nous un message ou appelez-nous. Nous planifions un premier échange gratuit pour comprendre vos besoins."
+      },
+      {
+        "question": "Combien coûte un projet ?",
+        "answer": "Cela dépend du périmètre. Après le premier échange, vous recevez un prix fixe par écrit."
+      },
+      {
+        "question": "Combien de temps cela prend-il ?",
+        "answer": "Les petits projets prennent quelques semaines ; les plus grands sont planifiés en phases claires."
+      },
+      {
+        "question": "Proposez-vous un support après le projet ?",
+        "answer": "Oui. Des formules de support flexibles font que vous n'êtes jamais seul."
+      }
+    ],
+    "bannerTitle": "Une question ?",
+    "bannerAccent": "Parlez à notre équipe.",
+    "bannerText": "Envoyez-nous un message, nous répondons rapidement."
+  },
+  "ctaBanner": {
+    "eyebrow": "Travaillons ensemble",
+    "title": "Prêt à passer à l'étape suivante ?",
+    "text": "Parlez-nous de vos objectifs et nous vous montrerons comment vous aider.",
+    "help": "Besoin d'aide ?",
+    "call": "Appelez-nous"
+  },
+  "about": {
+    "eyebrow": "Entreprise",
+    "title": "À propos",
+    "intro": "Nous sommes une entreprise indépendante qui place les personnes et la qualité au premier plan.",
+    "kicker": "Notre approche",
+    "heading": "Nous transformons les problèmes complexes en plans clairs.",
+    "body": "Notre équipe réunit planification, design et ingénierie sous un même toit. Nous écoutons d'abord, puis construisons des solutions adaptées à vos objectifs et à votre budget.",
+    "principles": "Nos principes",
+    "principlesTitle": "Les quatre mêmes principes dans chaque projet.",
+    "band": "Prenons ensemble la bonne décision."
+  },
+  "service": {
+    "scope": "Ce qui est inclus",
+    "title": "Bien planifier dès le départ.",
+    "body": "Chaque projet commence par un bref examen de vos objectifs, de votre calendrier et de votre budget. Nous convenons ensuite d'un périmètre clair, pour que vous sachiez exactement ce que vous obtenez.",
+    "checks": "Ce que nous examinons",
+    "checkItems": [
+      "Vos objectifs et la mesure du succès",
+      "Outils, processus et équipe actuels",
+      "Calendrier, budget et risques",
+      "Prochaines étapes et responsabilités"
+    ],
+    "stepsTitle": "Quatre étapes, aucune surprise.",
+    "sideKicker": "Accompagnement expert",
+    "sideTitle": "Trouvons la bonne approche pour vous.",
+    "sideText": "Partagez quelques détails et nous reviendrons vers vous avec un plan.",
+    "sideList": [
+      "Premier échange gratuit",
+      "Périmètre et prix écrits",
+      "Un seul interlocuteur"
+    ],
+    "related": "Autres services",
+    "relatedTitle": "Services associés.",
+    "formTitle": "Obtenir un devis :",
+    "formHeading": "Planifions votre projet ensemble.",
+    "formText": "Nous précisons le périmètre, le calendrier et le coût, puis vous envoyons un plan simple."
+  },
+  "contact": {
+    "eyebrow": "Contact & devis",
+    "title": "Contact",
+    "intro": "Une question ou un projet en tête ? Écrivez-nous, nous répondons sous un jour ouvré.",
+    "kicker": "Contact",
+    "heading": "Envoyez-nous un message.",
+    "text": "Parlez-nous de votre projet et notre équipe vous recontactera.",
+    "office": "Nos bureaux",
+    "phoneEmail": "Téléphone & e-mail",
+    "hours": "Horaires d'ouverture",
+    "hoursValue": "Lun–Ven : 09:00–18:00",
+    "closed": "Samedi & dimanche : fermé",
+    "phone": "Téléphone",
+    "email": "E-mail"
+  },
+  "footer": {
+    "tagline": "Nous planifions, construisons et accompagnons les projets qui font avancer les entreprises.",
+    "rights": "Tous droits réservés.",
+    "contact": "Contact & bureaux",
+    "trust": [
+      "Consultation gratuite",
+      "Prix fixes",
+      "Suivi à long terme"
+    ]
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "text": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "home": "Retour à l'accueil"
+  }
+}

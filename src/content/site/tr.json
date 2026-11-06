@@ -1,0 +1,352 @@
+{
+  "nav": {
+    "home": "Ana sayfa",
+    "company": "Kurumsal",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "blog": "Blog",
+    "contact": "İletişim"
+  },
+  "cta": "Teklif alın",
+  "topbar": "Büyüyen işletmeler için planlama, uygulama ve destek.",
+  "whatsapp": {
+    "message": "Merhaba, hizmetleriniz hakkında bilgi almak istiyorum.",
+    "online": "Çevrimiçi",
+    "help": "Yardım mı lazım?",
+    "ask": "WhatsApp'tan sorun"
+  },
+  "hero": {
+    "eyebrow": "Danışmanlık · Projeler · Destek",
+    "title": "İşletmenizin",
+    "accent": "güvenle büyümesine yardım ediyoruz",
+    "text": "Küçük bir ekip, büyük bir deneyim. İşletmenizi ileri taşıyan projeleri zamanında ve bütçesinde planlıyor, hayata geçiriyor ve destekliyoruz.",
+    "primary": "Ücretsiz teklif alın",
+    "rating": "Google'da yüzlerce 5 yıldızlı yorum",
+    "panel": "Nasıl çalışıyoruz",
+    "status": "Planlandığı gibi"
+  },
+  "highlights": [
+    "Ücretsiz ilk görüşme",
+    "Sabit, şeffaf fiyatlar",
+    "Yayın sonrası destek"
+  ],
+  "metrics": [
+    {
+      "value": "12+",
+      "label": "Yıllık deneyim"
+    },
+    {
+      "value": "850+",
+      "label": "Teslim edilen proje"
+    },
+    {
+      "value": "98%",
+      "label": "Memnun müşteri"
+    }
+  ],
+  "services": {
+    "badge": "Neler yapıyoruz",
+    "title": "Sizi ileri taşıyan",
+    "accent": "hizmetler",
+    "intro": "İlk fikirden günlük işleyişe kadar ihtiyacınız olan her şey.",
+    "more": "Detaylı bilgi",
+    "all": "Tüm hizmetler",
+    "help": "Nereden başlayacağınızdan emin değil misiniz? Doğru çözümü birlikte bulalım.",
+    "details": "detay",
+    "count": "hizmet"
+  },
+  "pillars": {
+    "badge": "İki şekilde yardımcı oluyoruz",
+    "title": "Uzman hizmetler ve",
+    "accent": "pratik rehberler",
+    "text": "Bugün neye ihtiyacınız varsa onu seçin: ekibimizden birebir destek ya da kendi başınıza kullanabileceğiniz ücretsiz rehberler.",
+    "view": "İncele",
+    "items": [
+      {
+        "title": "Hizmetlerimiz",
+        "subtitle": "Sizinle birlikte yapılır",
+        "tag": "Ekipler ve şirketler",
+        "text": "Stratejiden teslimata kadar ekibimiz iş bitene dek sizinkiyle omuz omuza çalışır.",
+        "list": "Popüler hizmetler",
+        "bullets": [
+          "Ücretsiz ilk görüşme",
+          "Sabit fiyat",
+          "Tek muhatap"
+        ],
+        "action": "Tüm hizmetler"
+      },
+      {
+        "title": "Rehberler ve içgörüler",
+        "subtitle": "Kendi hızınızda öğrenin",
+        "tag": "Ücretsiz kaynaklar",
+        "text": "En sık duyduğumuz sorulara yanıt veren kısa ve pratik yazılar.",
+        "list": "Son yazılar",
+        "bullets": [
+          "Pratik ipuçları",
+          "Gerçek örnekler",
+          "Düzenli güncellenir"
+        ],
+        "action": "Bloğu okuyun"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Neden biz",
+    "title": "İşletmeler neden bizimle çalışıyor",
+    "text": "Açık iletişim, dürüst fiyatlar ve sonuçlarınızı önemseyen bir ekip.",
+    "features": [
+      {
+        "title": "Deneyimli ekip",
+        "text": "Pek çok sektörde yılların saha deneyimi."
+      },
+      {
+        "title": "Net süreç",
+        "text": "Sırada ne olduğunu ve maliyetini her zaman bilirsiniz."
+      },
+      {
+        "title": "Hızlı yanıt",
+        "text": "Soruların çoğunu aynı iş günü yanıtlıyoruz."
+      },
+      {
+        "title": "Uzun vadeli destek",
+        "text": "Yayından çok sonra da yanınızdayız."
+      }
+    ],
+    "stats": [
+      {
+        "value": 12,
+        "suffix": "+",
+        "label": "Yıl",
+        "text": "Sahada edinilmiş deneyim."
+      },
+      {
+        "value": 850,
+        "suffix": "+",
+        "label": "Proje",
+        "text": "Her ölçekten müşteriye teslim edildi."
+      },
+      {
+        "value": 98,
+        "suffix": "%",
+        "label": "Memnuniyet",
+        "text": "Müşterilerimiz bizi tavsiye ediyor."
+      },
+      {
+        "value": 40,
+        "suffix": "+",
+        "label": "İş ortağı",
+        "text": "Her yıl birlikte çalıştığımız şirket."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Nasıl işler",
+    "title": "İlk görüşmeden nihai sonuca",
+    "text": "Her projeyi rotasında tutan basit ve kanıtlanmış bir süreç.",
+    "kicker": "Ücretsiz danışmanlık",
+    "center": "Projenizi konuşalım",
+    "action": "Bize yazın",
+    "steps": [
+      {
+        "title": "Keşif",
+        "text": "Dinliyor, soru soruyor ve hedeflerinizi anlıyoruz."
+      },
+      {
+        "title": "Plan",
+        "text": "Kapsam, takvim ve fiyatı içeren net bir plan alırsınız."
+      },
+      {
+        "title": "Uygulama",
+        "text": "Ekibimiz işi yapar ve sizi sürekli bilgilendirir."
+      },
+      {
+        "title": "Destek",
+        "text": "Sonuçları ölçer, birlikte geliştirmeye devam ederiz."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Müşteri hikâyeleri",
+    "title": "Gerçek yorumlar.",
+    "accent": "Gerçek sonuçlar.",
+    "text": "Müşterilerimiz bizimle çalışmayı nasıl anlatıyor.",
+    "see": "Google yorumlarını görün",
+    "source": "Google yorumu",
+    "verified": "Doğrulandı",
+    "prev": "Önceki yorum",
+    "next": "Sonraki yorum",
+    "items": [
+      {
+        "name": "Elif Yılmaz",
+        "role": "Operasyon müdürü",
+        "project": "Danışmanlık",
+        "quote": "Sorunumuzu tek toplantıda anladılar ve gerçekten uygulayabileceğimiz bir plan sundular."
+      },
+      {
+        "name": "Mehmet Kaya",
+        "role": "Kurucu",
+        "project": "Proje yönetimi",
+        "quote": "Zamanında, bütçesinde ve her zaman ulaşılabilir. Tam ihtiyacımız olan buydu."
+      },
+      {
+        "name": "Zeynep Demir",
+        "role": "Ofis yöneticisi",
+        "project": "Destek",
+        "quote": "Güler yüzlü, hızlı ve güvenilir. Ekibimiz kendini emin ellerde hissediyor."
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Hızlı teklif",
+    "title": "Projenizi anlatın",
+    "accent": "teklifinizi alın",
+    "text": "Birkaç ayrıntı paylaşın, size net bir plan ve fiyatla dönelim.",
+    "steps": [
+      {
+        "title": "Bir gün içinde yanıt",
+        "text": "Talebinizi inceler, aynı iş günü yanıt veririz."
+      },
+      {
+        "title": "Net, sabit fiyat",
+        "text": "Gizli maliyet yok: başlamadan önce toplam fiyatı görürsünüz."
+      },
+      {
+        "title": "Yükümlülük yok",
+        "text": "İlk görüşme her zaman ücretsizdir."
+      }
+    ],
+    "hotline": "Doğrudan hat"
+  },
+  "form": {
+    "eyebrow": "Ücretsiz teklif",
+    "title": "Teklif isteyin",
+    "text": "Neye ihtiyacınız olduğunu yazın, kısa sürede size dönelim.",
+    "name": "Ad soyad",
+    "namePlaceholder": "Adınız",
+    "phone": "Telefon",
+    "company": "Firma",
+    "companyPlaceholder": "Firma adı",
+    "service": "Hizmet",
+    "choose": "Hizmet seçin",
+    "details": "Proje detayları",
+    "detailsPlaceholder": "Projenizi kısaca anlatın...",
+    "consent": "Bilgilerimin teklif hazırlamak için kullanılmasını kabul ediyorum.",
+    "send": "WhatsApp ile gönder",
+    "safe": "Verileriniz güvende",
+    "reply": "Ortalama yanıt: aynı gün",
+    "sent": "Talebinizle WhatsApp açılıyor...",
+    "heading": "Yeni teklif talebi"
+  },
+  "blog": {
+    "badge": "İçgörüler",
+    "title": "Blog",
+    "intro": "Ekibimizden haberler, ipuçları ve hikâyeler.",
+    "readMore": "Devamını okuyun",
+    "all": "Tüm yazılar",
+    "related": "İlgili yazılar",
+    "summary": "Özet",
+    "consultTitle": "Bu konuda sorunuz mu var?",
+    "consultText": "Bize mesaj gönderin, ekibimiz memnuniyetle yardımcı olsun.",
+    "consultAction": "Bize sorun"
+  },
+  "faq": {
+    "badge": "SSS",
+    "title": "Sıkça sorulan sorular",
+    "text": "En sık duyduğumuz sorulara kısa yanıtlar.",
+    "items": [
+      {
+        "question": "Nasıl başlıyoruz?",
+        "answer": "Bize mesaj gönderin ya da arayın. İhtiyaçlarınızı anlamak için ücretsiz bir ilk görüşme planlarız."
+      },
+      {
+        "question": "Bir proje ne kadara mal olur?",
+        "answer": "Kapsama bağlıdır. İlk görüşmeden sonra yazılı, sabit bir fiyat alırsınız."
+      },
+      {
+        "question": "Ne kadar sürer?",
+        "answer": "Küçük projeler birkaç hafta sürer; büyük projeler net aşamalarla planlanır."
+      },
+      {
+        "question": "Proje sonrası destek veriyor musunuz?",
+        "answer": "Evet. Esnek destek paketlerimizle hiçbir zaman yalnız kalmazsınız."
+      }
+    ],
+    "bannerTitle": "Sorunuz mu var?",
+    "bannerAccent": "Ekibimizle konuşun.",
+    "bannerText": "Bize mesaj gönderin, hızlıca yanıtlayalım."
+  },
+  "ctaBanner": {
+    "eyebrow": "Birlikte çalışalım",
+    "title": "Bir sonraki adıma hazır mısınız?",
+    "text": "Hedeflerinizi anlatın, size nasıl yardımcı olabileceğimizi gösterelim.",
+    "help": "Yardım mı lazım?",
+    "call": "Bizi arayın"
+  },
+  "about": {
+    "eyebrow": "Kurumsal",
+    "title": "Hakkımızda",
+    "intro": "İnsanı ve kaliteyi önceleyen bağımsız bir şirketiz.",
+    "kicker": "Yaklaşımımız",
+    "heading": "Karmaşık sorunları net planlara dönüştürüyoruz.",
+    "body": "Ekibimiz planlama, tasarım ve mühendisliği tek çatı altında buluşturur. Önce dinler, ardından hedeflerinize ve bütçenize uygun çözümler üretiriz.",
+    "principles": "İlkelerimiz",
+    "principlesTitle": "Her projede aynı dört temel ilke.",
+    "band": "Doğru kararı birlikte verelim."
+  },
+  "service": {
+    "scope": "Neler dahil",
+    "title": "Baştan doğru planlayın.",
+    "body": "Her proje hedeflerinizin, takviminizin ve bütçenizin kısa bir değerlendirmesiyle başlar. Ardından net bir kapsamda anlaşırız; böylece tam olarak ne alacağınızı bilirsiniz.",
+    "checks": "Neleri inceliyoruz",
+    "checkItems": [
+      "Hedefleriniz ve başarıyı nasıl ölçeceğimiz",
+      "Mevcut araçlar, süreçler ve ekip",
+      "Takvim, bütçe ve riskler",
+      "Sonraki adımlar ve sorumlular"
+    ],
+    "stepsTitle": "Dört adım, sürpriz yok.",
+    "sideKicker": "Uzman desteği",
+    "sideTitle": "Size uygun yaklaşımı birlikte bulalım.",
+    "sideText": "Birkaç ayrıntı paylaşın, size bir planla dönelim.",
+    "sideList": [
+      "Ücretsiz ilk görüşme",
+      "Yazılı kapsam ve fiyat",
+      "Tek muhatap"
+    ],
+    "related": "Diğer hizmetler",
+    "relatedTitle": "İlgili hizmetler.",
+    "formTitle": "Teklif alın:",
+    "formHeading": "Projenizi birlikte planlayalım.",
+    "formText": "Kapsamı, takvimi ve maliyeti netleştirir, size sade bir plan göndeririz."
+  },
+  "contact": {
+    "eyebrow": "İletişim ve teklif",
+    "title": "İletişim",
+    "intro": "Bir sorunuz ya da aklınızda bir proje mi var? Bize yazın, bir iş günü içinde yanıtlayalım.",
+    "kicker": "İletişim",
+    "heading": "Bize mesaj gönderin.",
+    "text": "Projenizi anlatın, ekibimiz sizinle iletişime geçsin.",
+    "office": "Ofisimiz",
+    "phoneEmail": "Telefon ve e-posta",
+    "hours": "Çalışma saatleri",
+    "hoursValue": "Pzt–Cum: 09:00–18:00",
+    "closed": "Cumartesi ve pazar: kapalı",
+    "phone": "Telefon",
+    "email": "E-posta"
+  },
+  "footer": {
+    "tagline": "İşletmeleri ileri taşıyan projeleri planlıyor, kuruyor ve destekliyoruz.",
+    "rights": "Tüm hakları saklıdır.",
+    "contact": "İletişim ve ofis",
+    "trust": [
+      "Ücretsiz danışmanlık",
+      "Sabit fiyat",
+      "Uzun vadeli destek"
+    ]
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Aradığınız sayfa mevcut değil ya da taşınmış.",
+    "home": "Ana sayfaya dön"
+  }
+}

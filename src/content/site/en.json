@@ -1,0 +1,352 @@
+{
+  "nav": {
+    "home": "Home",
+    "company": "Company",
+    "about": "About us",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "cta": "Get a quote",
+  "topbar": "Planning, delivery and support for growing businesses.",
+  "whatsapp": {
+    "message": "Hello, I would like to learn more about your services.",
+    "online": "Online",
+    "help": "Need help?",
+    "ask": "Ask on WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Consulting · Projects · Support",
+    "title": "We help your business",
+    "accent": "grow with confidence",
+    "text": "A small team with big experience. We plan, deliver and support the projects that move your business forward, on time and on budget.",
+    "primary": "Get a free quote",
+    "rating": "Hundreds of 5-star reviews on Google",
+    "panel": "How we work",
+    "status": "On track"
+  },
+  "highlights": [
+    "Free first consultation",
+    "Fixed, transparent pricing",
+    "Support after launch"
+  ],
+  "metrics": [
+    {
+      "value": "12+",
+      "label": "Years of experience"
+    },
+    {
+      "value": "850+",
+      "label": "Projects delivered"
+    },
+    {
+      "value": "98%",
+      "label": "Happy clients"
+    }
+  ],
+  "services": {
+    "badge": "What we do",
+    "title": "Services that",
+    "accent": "move you forward",
+    "intro": "Everything you need, from the first idea to everyday operations.",
+    "more": "Learn more",
+    "all": "See all services",
+    "help": "Not sure where to start? Let's find the right fit together.",
+    "details": "details",
+    "count": "services"
+  },
+  "pillars": {
+    "badge": "Two ways we help",
+    "title": "Expert services and",
+    "accent": "practical guides",
+    "text": "Choose what you need today: hands-on help from our team, or free guides you can use on your own.",
+    "view": "View",
+    "items": [
+      {
+        "title": "Our services",
+        "subtitle": "Done together with you",
+        "tag": "Teams & companies",
+        "text": "From strategy to delivery, our team works alongside yours until the job is done.",
+        "list": "Popular services",
+        "bullets": [
+          "Free first call",
+          "Fixed pricing",
+          "One contact person"
+        ],
+        "action": "See all services"
+      },
+      {
+        "title": "Guides & insights",
+        "subtitle": "Learn at your own pace",
+        "tag": "Free resources",
+        "text": "Short, practical articles that answer the questions we hear most often.",
+        "list": "Latest articles",
+        "bullets": [
+          "Practical tips",
+          "Real examples",
+          "Updated regularly"
+        ],
+        "action": "Read the blog"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Why choose us",
+    "title": "Why businesses work with us",
+    "text": "Clear communication, honest pricing and a team that cares about your results.",
+    "features": [
+      {
+        "title": "Experienced team",
+        "text": "Years of hands-on work across many industries."
+      },
+      {
+        "title": "Clear process",
+        "text": "You always know what happens next and what it costs."
+      },
+      {
+        "title": "Fast response",
+        "text": "Most questions are answered the same business day."
+      },
+      {
+        "title": "Long-term support",
+        "text": "We stay with you long after launch."
+      }
+    ],
+    "stats": [
+      {
+        "value": 12,
+        "suffix": "+",
+        "label": "Years",
+        "text": "Of hands-on experience."
+      },
+      {
+        "value": 850,
+        "suffix": "+",
+        "label": "Projects",
+        "text": "Delivered for clients of every size."
+      },
+      {
+        "value": 98,
+        "suffix": "%",
+        "label": "Satisfaction",
+        "text": "Of clients would recommend us."
+      },
+      {
+        "value": 40,
+        "suffix": "+",
+        "label": "Partners",
+        "text": "Companies we work with every year."
+      }
+    ]
+  },
+  "process": {
+    "badge": "How it works",
+    "title": "From the first call to the final result",
+    "text": "A simple, proven process that keeps every project on track.",
+    "kicker": "Free consultation",
+    "center": "Let's talk about your project",
+    "action": "Message us",
+    "steps": [
+      {
+        "title": "Discovery",
+        "text": "We listen, ask questions and understand your goals."
+      },
+      {
+        "title": "Plan",
+        "text": "You get a clear plan with scope, timeline and price."
+      },
+      {
+        "title": "Delivery",
+        "text": "Our team does the work and keeps you updated."
+      },
+      {
+        "title": "Support",
+        "text": "We measure the results and keep improving together."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Client stories",
+    "title": "Real feedback.",
+    "accent": "Real results.",
+    "text": "What our clients say about working with us.",
+    "see": "See reviews on Google",
+    "source": "Google review",
+    "verified": "Verified",
+    "prev": "Previous review",
+    "next": "Next review",
+    "items": [
+      {
+        "name": "Sarah Miller",
+        "role": "Operations manager",
+        "project": "Consulting",
+        "quote": "They understood our problem in one meeting and gave us a plan we could actually follow."
+      },
+      {
+        "name": "David Chen",
+        "role": "Founder",
+        "project": "Project management",
+        "quote": "On time, on budget and always reachable. Exactly what we needed."
+      },
+      {
+        "name": "Laura Rossi",
+        "role": "Office manager",
+        "project": "Support",
+        "quote": "Friendly, fast and reliable. Our team feels in good hands."
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Quick quote",
+    "title": "Tell us about your project",
+    "accent": "and get a quote",
+    "text": "Share a few details and we will reply with a clear plan and price.",
+    "steps": [
+      {
+        "title": "Reply within one day",
+        "text": "We review your request and answer the same business day."
+      },
+      {
+        "title": "Clear, fixed pricing",
+        "text": "No hidden costs: you see the full price before we start."
+      },
+      {
+        "title": "No obligation",
+        "text": "The first consultation is always free."
+      }
+    ],
+    "hotline": "Direct line"
+  },
+  "form": {
+    "eyebrow": "Free quote",
+    "title": "Request a quote",
+    "text": "Tell us what you need and we will get back to you shortly.",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "phone": "Phone",
+    "company": "Company",
+    "companyPlaceholder": "Company name",
+    "service": "Service",
+    "choose": "Choose a service",
+    "details": "Project details",
+    "detailsPlaceholder": "Tell us briefly about your project...",
+    "consent": "I agree that my details are used to prepare a quote.",
+    "send": "Send via WhatsApp",
+    "safe": "Your data is safe",
+    "reply": "Average reply: same day",
+    "sent": "Opening WhatsApp with your request...",
+    "heading": "New quote request"
+  },
+  "blog": {
+    "badge": "Insights",
+    "title": "Blog",
+    "intro": "News, tips and stories from our team.",
+    "readMore": "Read more",
+    "all": "All articles",
+    "related": "Related articles",
+    "summary": "Summary",
+    "consultTitle": "Have a question about this topic?",
+    "consultText": "Send us a message and our team will be happy to help.",
+    "consultAction": "Ask us"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "text": "Quick answers to the questions we hear most.",
+    "items": [
+      {
+        "question": "How do we get started?",
+        "answer": "Send us a message or give us a call. We schedule a free first call to understand your needs."
+      },
+      {
+        "question": "How much does a project cost?",
+        "answer": "It depends on the scope. After the first call you get a fixed price in writing."
+      },
+      {
+        "question": "How long does it take?",
+        "answer": "Small projects take a few weeks; larger ones are planned in clear phases."
+      },
+      {
+        "question": "Do you offer support after the project?",
+        "answer": "Yes. Flexible support plans make sure you are never on your own."
+      }
+    ],
+    "bannerTitle": "Have a question?",
+    "bannerAccent": "Talk to our team.",
+    "bannerText": "Send us a message and we will answer quickly."
+  },
+  "ctaBanner": {
+    "eyebrow": "Let's work together",
+    "title": "Ready to take the next step?",
+    "text": "Tell us about your goals and we will show you how we can help.",
+    "help": "Need help?",
+    "call": "Call us"
+  },
+  "about": {
+    "eyebrow": "Company",
+    "title": "About us",
+    "intro": "We are an independent company that puts people and quality first.",
+    "kicker": "Our approach",
+    "heading": "We turn complex problems into clear plans.",
+    "body": "Our team combines planning, design and engineering under one roof. We listen first, then build solutions that fit your goals and your budget.",
+    "principles": "Our principles",
+    "principlesTitle": "The same four principles in every project.",
+    "band": "Let's make the right decision together."
+  },
+  "service": {
+    "scope": "What's included",
+    "title": "Plan it right from the start.",
+    "body": "Every project starts with a short review of your goals, timeline and budget. Then we agree on a clear scope, so you know exactly what you get.",
+    "checks": "What we look at",
+    "checkItems": [
+      "Your goals and how we measure success",
+      "Current tools, processes and team",
+      "Timeline, budget and risks",
+      "Next steps and who does what"
+    ],
+    "stepsTitle": "Four steps, no surprises.",
+    "sideKicker": "Expert support",
+    "sideTitle": "Let's find the right approach for you.",
+    "sideText": "Share a few details and we will get back to you with a plan.",
+    "sideList": [
+      "Free first consultation",
+      "Written scope and price",
+      "One contact person"
+    ],
+    "related": "More services",
+    "relatedTitle": "Related services.",
+    "formTitle": "Get a quote:",
+    "formHeading": "Let's plan your project together.",
+    "formText": "We clarify scope, timeline and cost, then send you a simple plan."
+  },
+  "contact": {
+    "eyebrow": "Contact & quote",
+    "title": "Contact",
+    "intro": "Have a question or a project in mind? Write to us and we will reply within one business day.",
+    "kicker": "Contact",
+    "heading": "Send us a message.",
+    "text": "Tell us about your project and our team will get back to you.",
+    "office": "Our office",
+    "phoneEmail": "Phone & email",
+    "hours": "Opening hours",
+    "hoursValue": "Mon–Fri: 09:00–18:00",
+    "closed": "Saturday & Sunday: closed",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "footer": {
+    "tagline": "Planning, building and supporting projects that move businesses forward.",
+    "rights": "All rights reserved.",
+    "contact": "Contact & office",
+    "trust": [
+      "Free consultation",
+      "Fixed pricing",
+      "Long-term support"
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has moved.",
+    "home": "Back to home"
+  }
+}
