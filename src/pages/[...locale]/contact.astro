@@ -1,5 +1,5 @@
 ---
-import { Clock3, MapPin, Phone } from '@lucide/astro'
+import { ArrowLeft, Clock3, MapPin, Phone } from '@lucide/astro'
 import Layout from '@/layouts/Layout.astro'
 import InternalHero from '@/components/InternalHero.astro'
 import ProjectForm from '@/components/ProjectForm.astro'
@@ -16,6 +16,12 @@ const map = `https://maps.google.com/maps?q=${encodeURIComponent(s.address)}`
 <Layout locale={locale} title={t.contact.title} description={t.contact.intro} translated={await locales()}>
   <main>
     <InternalHero locale={locale} eyebrow={t.contact.eyebrow} title={t.contact.title} description={t.contact.intro} image="/images/office.webp" />
+    <div class="shell max-w-6xl pt-6">
+      <a class="group inline-flex items-center gap-2 border border-slate-300 bg-white px-4 py-2.5 text-xs font-black uppercase tracking-wide text-slate-950 transition hover:border-primary hover:text-primary" href={locale === 'en' ? '/' : `/${locale}/`}>
+        <ArrowLeft class="size-4 transition-transform group-hover:-translate-x-1" size={16} />
+        {t.nav.home}
+      </a>
+    </div>
     <section class="bg-white py-10 md:py-14" id="form">
       <div class="shell max-w-6xl">
         <div class="grid gap-7 lg:grid-cols-[1fr_22rem] lg:items-start">
